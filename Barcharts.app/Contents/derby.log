@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Jan 31 23:21:25 HST 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-013c-950f-7b11-000004787ce0 
+on database directory /Users/sc/Projects/490R/Barcharts/Barcharts.app/Contents/db  with class loader sun.misc.Launcher$AppClassLoader@1f3e8d89 
+Loaded from file:/Library/Derby/db-derby-10.9.1.0-bin/lib/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_37-b06-434-11M3909
+user.dir=/Users/sc/Projects/490R/Barcharts/Barcharts.app/Contents
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jan 31 23:23:04 HST 2013: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Jan 31 23:23:04 HST 2013:
+Shutting down instance a816c00e-013c-950f-7b11-000004787ce0 on database directory /Users/sc/Projects/490R/Barcharts/Barcharts.app/Contents/db with class loader sun.misc.Launcher$AppClassLoader@1f3e8d89 
+----------------------------------------------------------------

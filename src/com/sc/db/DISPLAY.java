@@ -1,6 +1,6 @@
 package com.sc.db;
 
 public enum DISPLAY {
-	M,F
+	MAJORS,HOME,GPA,CREDITS_ATTEMPTED,CREDITS_PASSED,GRAD_YEAR
 }
 
